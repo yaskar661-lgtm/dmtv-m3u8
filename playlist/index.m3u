@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Namus Düşmanı" tvg-logo="LOGO" group-title="Zeki Alasya Metin Akpınar",Namus Düşmanı
+https://dmtv.k33n26.workers.dev/x8rf79b.m3u8
+
+#EXTINF:-1 tvg-name="Beyoğlu Beyoğlu" tvg-logo="logo" group-title="Zeki Alasya Metin Akpınar",Beyoğlu Beyoğlu
+https://dmtv.k33n26.workers.dev/x96zf6i.m3u8
+
+#EXTINF:-1 tvg-name="Atla Gel Şaban" tvg-logo="logo" group-title="Kemal Sunal",Atla Gel Şaban
+https://dmtv.k33n26.workers.dev/x9ktgnm.m3u8
+
+#EXTINF:-1 tvg-name="Gülen Adam" tvg-logo="logo" group-title="Kemal Sunal",Gülen Adam
+https://dmtv.k33n26.workers.dev/x9ktgnq.m3u8
+
+#EXTINF:-1 tvg-name="Banker Bilo" tvg-logo="logo" group-title="Şener Şen",Banker Bilo
+https://dmtv.k33n26.workers.dev/x984cpq.m3u8
+

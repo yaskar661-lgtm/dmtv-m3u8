@@ -1,0 +1,3 @@
+name = "dmtv-m3u8"
+main = "src/index.js"
+compatibility_date = "2026-05-02"
